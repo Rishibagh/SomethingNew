@@ -1,2 +1,3 @@
 # SomethingNew
-I am starting to work on Git
+I am starting to work on Git.
+Rishi Baghel
